@@ -1,4 +1,4 @@
-package com.company.create.SingletonPattern;
+package create.SingletonPattern;
 
 public class Singleton {
     private static class SingletonHolder {

@@ -1,4 +1,4 @@
-package com.company.create.AbstractFactoryPattern;
+package create.AbstractFactoryPattern;
 
 public interface Shape {
     void draw();

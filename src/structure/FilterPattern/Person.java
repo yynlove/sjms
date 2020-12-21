@@ -1,4 +1,4 @@
-package com.company.structure.FilterPattern;
+package structure.FilterPattern;
 
 public class Person {
     private String name;

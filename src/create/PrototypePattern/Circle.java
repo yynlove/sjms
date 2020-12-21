@@ -1,4 +1,4 @@
-package com.company.create.PrototypePattern;
+package create.PrototypePattern;
 
 public class Circle extends Shape {
 

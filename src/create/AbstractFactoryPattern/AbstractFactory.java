@@ -1,5 +1,4 @@
-package com.company.create.AbstractFactoryPattern;
-
+package create.AbstractFactoryPattern;
 
 
 public abstract  class AbstractFactory {

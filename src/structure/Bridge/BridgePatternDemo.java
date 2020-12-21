@@ -1,4 +1,4 @@
-package com.company.structure.Bridge;
+package structure.Bridge;
 
 public class BridgePatternDemo {
 

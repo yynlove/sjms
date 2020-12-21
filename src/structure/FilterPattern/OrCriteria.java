@@ -1,4 +1,4 @@
-package com.company.structure.FilterPattern;
+package structure.FilterPattern;
 
 import java.util.List;
 

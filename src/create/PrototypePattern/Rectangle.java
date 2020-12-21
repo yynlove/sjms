@@ -1,4 +1,4 @@
-package com.company.create.PrototypePattern;
+package create.PrototypePattern;
 
 public class Rectangle extends Shape {
 

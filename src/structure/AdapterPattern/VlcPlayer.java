@@ -1,4 +1,4 @@
-package com.company.structure.AdapterPattern;
+package structure.AdapterPattern;
 
 public class VlcPlayer implements AdvancedMediaPlayer{
     @Override

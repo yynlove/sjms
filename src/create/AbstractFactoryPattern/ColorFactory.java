@@ -1,5 +1,4 @@
-package com.company.create.AbstractFactoryPattern;
-
+package create.AbstractFactoryPattern;
 public class ColorFactory extends AbstractFactory {
 
     @Override

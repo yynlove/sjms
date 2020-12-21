@@ -1,4 +1,4 @@
-package com.company.create.BuilderPattern;
+package create.BuilderPattern;
 
 public class Pepsi extends ColdDrink {
 

@@ -1,4 +1,4 @@
-package com.company.structure.AdapterPattern;
+package structure.AdapterPattern;
 
 public class Mp4Player implements AdvancedMediaPlayer{
 
