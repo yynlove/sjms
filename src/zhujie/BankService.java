@@ -5,10 +5,14 @@ import java.lang.reflect.Method;
 
 public class BankService {
 
+    /**
+     * 注解用来提供元数据
+     * @param money
+     */
     @BankTransferMoney(maxMoney = 15000)
     public static void transferMoney(double money){
+        //判断注解转账是否成功
         System.out.println(processAnnotationMoney(money));
-
     }
 
 
