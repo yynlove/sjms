@@ -2,14 +2,9 @@ package zhujie;
 
 import java.lang.annotation.*;
 
-/**
- *
- */
-
 @Documented
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.METHOD)
-public @interface People {
-    Game[] value() ;
+public @interface BankTransferMoney {
+    double maxMoney() default 10000;
 }
-
